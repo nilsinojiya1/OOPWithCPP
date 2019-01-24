@@ -1,4 +1,4 @@
-//write a CPP program to print 'hello world'
+//write a CPP program to print 'hello world'.
 #include<oistream.h>
 using namespace std;
 int main()
