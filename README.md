@@ -21,20 +21,20 @@ all cpp program.
 
 10.Write a cpp program for reference variable.
 
-11.Write a cpp program for passing with argument.
+11.Write a cpp program for find area of rectangle using inline function.
 
-12. Write a cpp program for find area of rectangle.
+12.Write a cpp program for find area of circle, triangle and box using function overloading.
 
-13.Write a cpp program for static  variable member functions.
+13.Write a cpp program for static variable member functions.
 
 14.Write a cpp program for static variable data member.
 
-15. Write a cpp program for returning value with object.
+15. Write a cpp program for passing object and returning object.
 
 16.Write a cpp program for friend functions.
 
 17.Write a cpp program to add two class using friend function.
 
-18.Write a cpp program to  use paramerting  constructor.
+18.Write a cpp program to use parameterized constructor.
 
-19.Write a cpp program to  use default  constructor.
+19.Write a cpp program to use default constructor.
