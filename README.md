@@ -29,7 +29,7 @@ all cpp program.
 
 14.Write a cpp program for static member functions.
 
-15. Write a cpp program for passing object and returning object.
+15.Write a cpp program for passing object and returning object.
 
 16.Write a cpp program for friend functions.
 
