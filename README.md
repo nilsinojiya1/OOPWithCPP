@@ -35,6 +35,6 @@ all cpp program.
 
 17.Write a cpp program to add two class using friend function.
 
-18.Write a cpp program to use parameterized constructor.
+18.Write a cpp program to use default constructor.
 
-19.Write a cpp program to use default constructor.
+19.Write a cpp program to use parameterized constructor.
