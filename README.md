@@ -25,9 +25,9 @@ all cpp program.
 
 12.Write a cpp program for find area of circle, triangle and box using function overloading.
 
-13.Write a cpp program for static variable member functions.
+13.Write a cpp program for static data member.
 
-14.Write a cpp program for static variable data member.
+14.Write a cpp program for static member functions.
 
 15. Write a cpp program for passing object and returning object.
 
