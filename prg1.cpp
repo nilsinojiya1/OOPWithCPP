@@ -1,5 +1,5 @@
-//write a CPP program to print 'hello world'.
-#include<oistream.h>
+//write a CPP program to print "hello world".
+#include<iostream>
 using namespace std;
 int main()
 {
