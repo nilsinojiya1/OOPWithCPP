@@ -35,6 +35,32 @@ all cpp program.
 
 17.Write a cpp program to add two class using friend function.
 
-18.Write a cpp program to use default constructor.
+18.Write a cpp program to implement default constructor.
 
-19.Write a cpp program to use parameterized constructor.
+19.Write a cpp program to implement parameterized constructor.
+
+20.Write a cpp program to implement copy constructor.
+
+21.Write a cpp program to implement destructor.
+
+22.Write a cpp program to overloading binery operater.
+
+23.Write a cpp program to overloading unary operater.
+
+24.Write a cpp progarm to overloading binary operater using friend function.
+
+25.Write a cpp program to convert basic type to class type.
+
+26.Write a cpp program to convert class type to basic type.
+
+27.Write a cpp program to convert class type to class type.
+
+28.Write a cpp progarm to implement singal inheritance.
+
+29.Write a cpp progarm to implement multilevel inheritance.
+
+30.Write a cpp progarm to implement multiple inheritance.
+
+31.Write a cpp progarm to implement hierarchical inheritance.
+
+33.Write a cpp program to implement hybrid inheritance. 
