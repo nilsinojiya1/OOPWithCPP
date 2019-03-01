@@ -44,10 +44,10 @@ class result : public internal , public external , public university {
         public:
             void printData(){
                 cout<<"name:"<<name;
-                cout<<"/nenrollment no.:"<<enrollNo;
-                cout<<"/ninternal marks:"<<interMarks;
-                cout<<"/nexternal marks:"<<exterMarks;
-                cout<<"/nuniversity marks:"<<univMarks;
+                cout<<"\nenrollment no.:"<<enrollNo;
+                cout<<"\ninternal marks:"<<interMarks;
+                cout<<"\nexternal marks:"<<exterMarks;
+                cout<<"\nuniversity marks:"<<univMarks;
             }
 };
 int main()
