@@ -64,3 +64,5 @@ all cpp program.
 31.Write a cpp progarm to implement hierarchical inheritance.
 
 32.Write a cpp program to implement hybrid inheritance. 
+
+33.Write a cpp program to implement virtual class.
