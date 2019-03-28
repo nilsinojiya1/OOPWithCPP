@@ -66,3 +66,5 @@ all cpp program.
 32.Write a cpp program to implement hybrid inheritance.
 
 33.Write a cpp program to implement virtual class.
+
+34.Write a cpp program for mrthod overloading.
