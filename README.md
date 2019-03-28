@@ -67,4 +67,4 @@ all cpp program.
 
 33.Write a cpp program to implement virtual class.
 
-34.Write a cpp program for mrthod overloading.
+34.Write a cpp program for method overloading.
