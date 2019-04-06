@@ -1,4 +1,4 @@
-//Write a cpp progarm to implement singal inheritance.
+//Write a cpp program to implement single inheritance.
 #include <iostream>
 using namespace std;
 class base    //single base class

@@ -1,4 +1,4 @@
-//Write a cpp progarm to implement multilevel inheritance.
+//Write a cpp program to implement multilevel inheritance.
 #include <iostream>
 using namespace std;
 class base //single base class

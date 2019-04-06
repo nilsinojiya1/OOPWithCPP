@@ -1,4 +1,4 @@
-//Write a cpp progarm to implement multiple inheritance.
+//Write a cpp program to implement multiple inheritance.
 #include<iostream>
 using namespace std;
 class A

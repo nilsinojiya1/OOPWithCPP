@@ -1,4 +1,4 @@
-//Write a cpp progarm to implement hierarchical inheritance.
+//Write a cpp program to implement hierarchical inheritance.
 #include <iostream>
 using namespace std;
 
