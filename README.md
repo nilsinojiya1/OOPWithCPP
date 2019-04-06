@@ -68,3 +68,35 @@ all cpp program.
 33.Write a cpp program to implement virtual class.
 
 34.Write a cpp program for mrthod overloading.
+
+35.Write a cpp program for implement pointer to array.
+
+36.Write a cpp program for implement pointer to objects.
+
+37.Write a cpp program for implement this pointer.
+
+38.Write a cpp program for implement pointer to derived class.
+
+39.Write a cpp program for implement virtual base function.
+
+40.Write a cpp program for implement pure virtual function.
+
+41.Write a cpp program for create/open a file and perform write operation.
+
+42.Write a cpp program for open a file and perform read operation.
+
+43.Write a program that opens two text files for reading data. It creates a third file that contains the text of first file and then that of second file (text of second file to be appended after text of the first file, to produce the third file).
+
+44.Write a cpp program for reading and writing class object.
+
+45.Write a cpp program for exception handling.
+
+46.Write a cpp program for exception handling using multiple catch.
+
+47.Write a cpp program for Re-throwing exception.
+
+48.Write a cpp program for implement user defined exception
+
+49.Write a cpp program to find large value using function template.
+
+50.Write a cpp program for implement class template.
