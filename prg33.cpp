@@ -1,3 +1,4 @@
+// Write a cpp program to implement virtual class.
 #include<iostream>
 using namespace std;
 
