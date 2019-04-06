@@ -28,7 +28,7 @@ class external : virtual public student{
         int exterMarks;
     public:
     external(void){
-        cout<<"enter internal marks:";
+        cout<<"enter external marks:";
         cin>>exterMarks;
     }
 };
